@@ -1,0 +1,3 @@
+"ip":"shinchansmpLnJu.aternos.me",
+"port":"60271",
+"name":"chapribot"
